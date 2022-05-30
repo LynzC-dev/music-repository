@@ -1,0 +1,23 @@
+{
+  "name": "music-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynzC-dev/music-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynzC-dev/music-repository/issues"
+  },
+  "homepage": "https://github.com/LynzC-dev/music-repository#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
